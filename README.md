@@ -13,3 +13,7 @@ de sabotage zone moet altijd gesloten zijn, dus deze loopt van sensor naar senso
 
 er zijn 2 relais gebruikt 1 voor de flits licht (deze blijft ingeschakelt bij alarm tot deze word uitgeschakelt)
 1 relais voor een sirene, deze word bij alarm automatisch uitgeschakelt na een x aantal minuten.
+
+
+het HMi bestand is het programma wat in het Nexion scherm geladen moet worden, en kan uiteraard aangepast worden naar wens.
+LET OP: als je knoppen gaat wijzigen krijgen ze een ander ID waardoor het programma in de Arduino ook aangepast moet worden.
